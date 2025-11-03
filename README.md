@@ -42,6 +42,7 @@ PROJETO_VUEJS
     └── yarn.lock
 
 
+
 ## Funcionalidades Implementadas
 - Adicionar produto ao carrinho
 Gera um produto aleatório e o adiciona à lista de compras.
