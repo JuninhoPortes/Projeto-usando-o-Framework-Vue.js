@@ -40,7 +40,7 @@ PROJETO_VUEJS
     ├── README.md
     ├── vite.config.js
     └── yarn.lock
-
+```
 
 
 ## Funcionalidades Implementadas
