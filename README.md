@@ -9,9 +9,10 @@ Tecnologias Utilizadas
 - Visual Studio Code — Editor de código utilizado durante o desenvolvimento.
 
 
-Estrutura do Projeto
-bash'''
-PROJETO_VUEJS/
+## Estrutura do Projeto
+
+```bash
+PROJETO_VUEJS
 └── shopping-cart/
     ├── .vscode/
     │   └── extensions.json
@@ -39,6 +40,7 @@ PROJETO_VUEJS/
     ├── README.md
     ├── vite.config.js
     └── yarn.lock
+
 
 Funcionalidades Implementadas
 - Adicionar produto ao carrinho
