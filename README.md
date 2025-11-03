@@ -10,7 +10,8 @@ Tecnologias Utilizadas
 
 
 Estrutura do Projeto
- PROJETO_VUEJS/
+bash'''
+PROJETO_VUEJS/
 └── shopping-cart/
     ├── .vscode/
     │   └── extensions.json
