@@ -82,5 +82,7 @@ http://localhost:5173
 ## Observações
 Este projeto foi desenvolvido com o objetivo principal de explorar e compreender os fundamentos do Vue.js, uma tecnologia amplamente utilizada no mercado. Trata-se de uma iniciativa pessoal e enxuta, voltada para o aprendizado prático e a adaptação a novas ferramentas e metodologias de desenvolvimento.
 
+Como parte desse processo de aprendizado, o projeto foi inspirado no vídeo tutorial do canal Jeff Bruchado, cujo conteúdo serviu de referência para a estruturação e implementação das principais funcionalidades.
+
 
 
